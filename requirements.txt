@@ -6,4 +6,4 @@ python-dotenv
 pyjwt
 pwdlib[argon2]
 resend
-psycopg2
+psycopg[binary]
